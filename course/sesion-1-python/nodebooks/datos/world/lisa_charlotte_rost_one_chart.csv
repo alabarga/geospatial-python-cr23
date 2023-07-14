@@ -1,0 +1,188 @@
+country,region.value,income,health,population
+Afghanistan,Europe & Central Asia,1925,"57,63",32526562
+Albania,Europe & Central Asia,10620,76,2896679
+Algeria,Middle East & North Africa,13434,"76,5",39666519
+Andorra,Europe & Central Asia,46577,"84,1",70473
+Angola,Sub-Saharan Africa,7615,61,25021974
+Antigua and Barbuda,Latin America & Caribbean,21049,"75,2",91818
+Argentina,Latin America & Caribbean,17344,"76,2",43416755
+Armenia,Europe & Central Asia,7763,"74,4",3017712
+Australia,East Asia & Pacific,44056,"81,8",23968973
+Austria,Europe & Central Asia,44401,81,8544586
+Azerbaijan,Europe & Central Asia,16986,"72,9",9753968
+Bahamas,Latin America & Caribbean,22818,"72,3",388019
+Bahrain,Middle East & North Africa,44138,"79,2",1377237
+Bangladesh,South Asia,3161,"70,1",160995642
+Barbados,Latin America & Caribbean,12984,"75,8",284215
+Belarus,Europe & Central Asia,17415,"70,4",9495826
+Belgium,Europe & Central Asia,41240,"80,4",11299192
+Belize,Latin America & Caribbean,8501,70,359287
+Benin,Sub-Saharan Africa,1830,"65,5",10879829
+Bhutan,South Asia,7983,"70,2",774830
+Bolivia,Latin America & Caribbean,6295,"72,3",10724705
+Bosnia and Herzegovina,Europe & Central Asia,9833,"77,9",3810416
+Botswana,Sub-Saharan Africa,17196,"66,4",2262485
+Brazil,Latin America & Caribbean,15441,"75,6",207847528
+Brunei,East Asia & Pacific,73003,"78,7",423188
+Bulgaria,Europe & Central Asia,16371,"74,9",7149787
+Burkina Faso,Sub-Saharan Africa,1654,"62,8",18105570
+Burundi,Sub-Saharan Africa,777,"60,4",11178921
+Cambodia,East Asia & Pacific,3267,"68,4",15577899
+Cameroon,Sub-Saharan Africa,2897,"59,5",23344179
+Canada,North America,43294,"81,7",35939927
+Cape Verde,Sub-Saharan Africa,6514,"74,6",520502
+Central African Republic,Sub-Saharan Africa,599,"53,8",4900274
+Chad,Sub-Saharan Africa,2191,"57,7",14037472
+Chile,Latin America & Caribbean,22465,"79,3",17948141
+China,East Asia & Pacific,13334,"76,9",1376048943
+Colombia,Latin America & Caribbean,12761,"75,8",48228704
+Comoros,Sub-Saharan Africa,1472,"64,1",788474
+"Congo, Dem. Rep.",Sub-Saharan Africa,809,"58,3",77266814
+"Congo, Rep.",Sub-Saharan Africa,6220,"61,9",4620330
+Costa Rica,Latin America & Caribbean,14132,80,4807850
+Cote d'Ivoire,Sub-Saharan Africa,3491,"60,33",22701556
+Croatia,Europe & Central Asia,20260,78,4240317
+Cuba,Latin America & Caribbean,21291,"78,5",11389562
+Cyprus,Europe & Central Asia,29797,"82,6",1165300
+Czech Republic,Europe & Central Asia,29437,"78,6",10543186
+Denmark,Europe & Central Asia,43495,"80,1",5669081
+Djibouti,Middle East & North Africa,3139,"64,63",887861
+Dominica,Latin America & Caribbean,10503,"74,6",72680
+Dominican Republic,Latin America & Caribbean,12837,"73,8",10528391
+Ecuador,Latin America & Caribbean,10996,"75,2",16144363
+Egypt,Middle East & North Africa,11031,"71,3",91508084
+El Salvador,Latin America & Caribbean,7776,"74,1",6126583
+Equatorial Guinea,Sub-Saharan Africa,31087,"60,63",845060
+Eritrea,Sub-Saharan Africa,1129,"62,9",5227791
+Estonia,Europe & Central Asia,26812,"76,8",1312558
+Ethiopia,Sub-Saharan Africa,1520,"63,6",99390750
+Fiji,East Asia & Pacific,7925,"66,3",892145
+Finland,Europe & Central Asia,38923,"80,8",5503457
+France,Europe & Central Asia,37599,"81,9",64395345
+Gabon,Sub-Saharan Africa,18627,"60,53",1725292
+Gambia,Sub-Saharan Africa,1644,"65,1",1990924
+Georgia,Europe & Central Asia,7474,"73,3",3999812
+Germany,Europe & Central Asia,44053,"81,1",80688545
+Ghana,Sub-Saharan Africa,4099,"65,5",27409893
+Greece,Europe & Central Asia,25430,"79,8",10954617
+Grenada,Latin America & Caribbean,11593,"71,7",106825
+Guatemala,Latin America & Caribbean,7279,"73,1",16342897
+Guinea,Sub-Saharan Africa,1225,"60,8",12608590
+Guinea-Bissau,Sub-Saharan Africa,1386,"53,4",1844325
+Guyana,Latin America & Caribbean,6816,"64,4",767085
+Haiti,Latin America & Caribbean,1710,"65,3",10711067
+Honduras,Latin America & Caribbean,4270,"72,4",8075060
+Hungary,Europe & Central Asia,24200,"76,2",9855023
+Iceland,Europe & Central Asia,42182,"82,8",329425
+India,South Asia,5903,"66,8",1311050527
+Indonesia,East Asia & Pacific,10504,"70,9",257563815
+Iran,Middle East & North Africa,15573,"78,5",79109272
+Iraq,Middle East & North Africa,14646,"72,1",36423395
+Ireland,Europe & Central Asia,47758,"80,4",4688465
+Israel,Middle East & North Africa,31590,"82,4",8064036
+Italy,Europe & Central Asia,33297,"82,1",59797685
+Jamaica,Latin America & Caribbean,8606,"75,5",2793335
+Japan,East Asia & Pacific,36162,"83,5",126573481
+Jordan,Middle East & North Africa,11752,"78,3",7594547
+Kazakhstan,Europe & Central Asia,23468,"68,2",17625226
+Kenya,Sub-Saharan Africa,2898,"66,63",46050302
+Kiribati,East Asia & Pacific,1824,"62,4",112423
+Kuwait,Middle East & North Africa,82633,"80,7",3892115
+Kyrgyz Republic,Europe & Central Asia,3245,69,5939962
+Lao,East Asia & Pacific,5212,"66,4",6802023
+Latvia,Europe & Central Asia,23282,"75,7",1970503
+Lebanon,Middle East & North Africa,17050,"78,5",5850743
+Lesotho,Sub-Saharan Africa,2598,"48,5",2135022
+Liberia,Sub-Saharan Africa,958,"63,9",4503438
+Libya,Middle East & North Africa,17261,"76,2",6278438
+Lithuania,Europe & Central Asia,26665,"75,4",2878405
+Luxembourg,Europe & Central Asia,88314,"81,1",567110
+"Macedonia, FYR",Europe & Central Asia,12547,77,2078453
+Madagascar,Sub-Saharan Africa,1400,"64,7",24235390
+Malawi,Sub-Saharan Africa,799,"60,22",17215232
+Malaysia,East Asia & Pacific,24320,"75,1",30331007
+Maldives,South Asia,14408,"79,5",363657
+Mali,Sub-Saharan Africa,1684,"57,6",17599694
+Malta,Middle East & North Africa,30265,"82,1",418670
+Marshall Islands,East Asia & Pacific,3661,"65,1",52993
+Mauritania,Sub-Saharan Africa,3877,"65,7",4067564
+Mauritius,Sub-Saharan Africa,18350,"73,9",1273212
+Mexico,Latin America & Caribbean,16850,"74,5",127017224
+"Micronesia, Fed. Sts.",East Asia & Pacific,3510,67,104460
+Moldova,Europe & Central Asia,4896,"72,7",4068897
+Mongolia,East Asia & Pacific,11819,"65,3",2959134
+Montenegro,Europe & Central Asia,14833,"75,8",625781
+Morocco,Middle East & North Africa,7319,"74,7",34377511
+Mozambique,Sub-Saharan Africa,1176,"56,4",27977863
+Myanmar,East Asia & Pacific,4012,"67,9",53897154
+Namibia,Sub-Saharan Africa,10040,61,2458830
+Nepal,South Asia,2352,"71,2",28513700
+Netherlands,Europe & Central Asia,45784,"80,6",16924929
+New Zealand,East Asia & Pacific,34186,"80,6",4528526
+Nicaragua,Latin America & Caribbean,4712,"76,8",6082032
+Niger,Sub-Saharan Africa,943,"62,2",19899120
+Nigeria,Sub-Saharan Africa,5727,"61,33",182201962
+North Korea,East Asia & Pacific,1390,"71,4",25155317
+Norway,Europe & Central Asia,64304,"81,6",5210967
+Oman,Middle East & North Africa,48226,"75,7",4490541
+Pakistan,South Asia,4743,"66,5",188924874
+Panama,Latin America & Caribbean,20485,"78,2",3929141
+Papua New Guinea,East Asia & Pacific,2529,"60,6",7619321
+Paraguay,Latin America & Caribbean,8219,"73,9",6639123
+Peru,Latin America & Caribbean,11903,"77,5",31376670
+Philippines,East Asia & Pacific,6876,"70,2",100699395
+Poland,Europe & Central Asia,24787,"77,3",38611794
+Portugal,Europe & Central Asia,26437,"79,8",10349803
+Qatar,Middle East & North Africa,132877,82,2235355
+Romania,Europe & Central Asia,19203,"76,8",19511324
+Russia,Europe & Central Asia,23038,"73,13",143456918
+Rwanda,Sub-Saharan Africa,1549,"66,53",11609666
+Samoa,East Asia & Pacific,5558,"72,2",193228
+Sao Tome and Principe,Sub-Saharan Africa,3003,"68,8",190344
+Saudi Arabia,Middle East & North Africa,52469,"78,1",31540372
+Senegal,Sub-Saharan Africa,2251,"66,1",15129273
+Serbia,Europe & Central Asia,12908,"78,1",8850975
+Seychelles,Sub-Saharan Africa,25684,"73,7",96471
+Sierra Leone,Sub-Saharan Africa,2085,"58,5",6453184
+Singapore,East Asia & Pacific,80794,"82,1",5603740
+Slovak Republic,Europe & Central Asia,27204,"76,4",5426258
+Slovenia,Europe & Central Asia,28550,"80,2",2067526
+Solomon Islands,East Asia & Pacific,2047,"64,1",583591
+Somalia,Sub-Saharan Africa,624,"58,7",10787104
+South Africa,Sub-Saharan Africa,12509,"63,72",54490406
+South Korea,South Asia,34644,"80,7",50293439
+South Sudan,Sub-Saharan Africa,3047,58,12339812
+Spain,Europe & Central Asia,32979,"81,7",46121699
+Sri Lanka,South Asia,10624,"76,5",20715010
+St. Lucia,Latin America & Caribbean,9997,"74,5",184999
+St. Vincent and the Grenadines,Latin America & Caribbean,10435,"72,9",109462
+Sudan,Sub-Saharan Africa,3975,"69,5",40234882
+Suriname,Latin America & Caribbean,17125,"70,5",542975
+Swaziland,Sub-Saharan Africa,6095,"51,5",1286970
+Sweden,Europe & Central Asia,44892,82,9779426
+Switzerland,Europe & Central Asia,56118,"82,9",8298663
+Syria,Middle East & North Africa,4637,"70,26",18502413
+Tajikistan,Europe & Central Asia,2582,71,8481855
+Tanzania,Sub-Saharan Africa,2571,"63,43",53470420
+Thailand,South Asia,14512,"75,1",67959359
+Timor-Leste,South Asia,2086,"72,4",1184765
+Togo,Sub-Saharan Africa,1433,"64,23",7304578
+Tonga,East Asia & Pacific,5069,"70,5",106170
+Trinidad and Tobago,Latin America & Caribbean,30113,"71,4",1360088
+Tunisia,Middle East & North Africa,11126,"77,3",11253554
+Turkey,Middle East & North Africa,19360,"76,5",78665830
+Turkmenistan,Europe & Central Asia,15865,"67,9",5373502
+Uganda,Sub-Saharan Africa,1680,"60,8",39032383
+Ukraine,Europe & Central Asia,8449,"72,1",44823765
+United Arab Emirates,Middle East & North Africa,60749,"76,6",9156963
+United Kingdom,Europe & Central Asia,38225,"81,4",64715810
+United States,North America,53354,"79,1",321773631
+Uruguay,Latin America & Caribbean,20438,"77,3",3431555
+Uzbekistan,Europe & Central Asia,5598,"70,1",29893488
+Vanuatu,East Asia & Pacific,2912,65,264652
+Venezuela,Latin America & Caribbean,15753,"75,8",31108083
+Vietnam,South Asia,5623,"76,5",93447601
+West Bank and Gaza,Middle East & North Africa,4319,"75,2",4668466
+Yemen,Middle East & North Africa,3887,"67,6",26832215
+Zambia,Sub-Saharan Africa,4034,"58,96",16211767
+Zimbabwe,Sub-Saharan Africa,1801,"60,01",15602751
