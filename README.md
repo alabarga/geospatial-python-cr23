@@ -44,3 +44,4 @@ los recursos hídricos, el uso del suelo, la erosión, la expansión urbana y ot
 en la superficie terrestre, agricultura de precisión, etc.)
 4. Conclusión y discusión sobre futuros desarrollos en el análisis de imágenes de satélite
 
+**Conclusiones finales**
