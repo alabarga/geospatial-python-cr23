@@ -16,3 +16,4 @@ leafmap
 localtileserver
 GDAL==3.4.1
 scikit-learn
+osmnx

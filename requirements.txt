@@ -181,6 +181,7 @@ geomet==1.0.0
 geopandas==0.13.2
     # via
     #   -r requirements.in
+    #   osmnx
     #   segment-geospatial
 geopy==2.3.0
     # via eemont
@@ -400,6 +401,7 @@ nest-asyncio==1.5.6
 networkx==3.1
     # via
     #   mapclassify
+    #   osmnx
     #   torch
 notebook==6.5.4
     # via jupyter
@@ -423,6 +425,7 @@ numpy==1.24.3
     #   matplotlib
     #   numba
     #   opencv-python
+    #   osmnx
     #   pandas
     #   pycocotools
     #   rasterio
@@ -463,6 +466,8 @@ nvidia-nvtx-cu11==11.7.91
     # via torch
 opencv-python==4.7.0.72
     # via segment-geospatial
+osmnx==1.5.1
+    # via -r requirements.in
 overrides==7.3.1
     # via jupyter-server
 packaging==23.1
@@ -488,6 +493,7 @@ pandas==2.0.2
     #   geopandas
     #   leafmap
     #   mapclassify
+    #   osmnx
     #   seaborn
     #   spyndex
     #   xarray
@@ -642,6 +648,7 @@ requests[socks]==2.31.0
     #   google-cloud-storage
     #   huggingface-hub
     #   localtileserver
+    #   osmnx
     #   planetary-computer
     #   pystac-client
     #   sentinelsat
@@ -691,6 +698,7 @@ server-thread==0.2.0
 shapely==2.0.1
     # via
     #   geopandas
+    #   osmnx
     #   rasterstats
 simplejson==3.19.1
     # via rasterstats

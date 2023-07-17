@@ -1,8 +1,15 @@
 # Use an official GDAL image as the base image
-FROM osgeo/gdal:ubuntu-small-latest
+# FROM osgeo/gdal:ubuntu-small-latest
+FROM ubuntu:22.04
 
 # install pip
-RUN apt-get update && apt-get -y install python3-pip --fix-missing
+RUN apt-get update && apt-get install -y \
+    python3.9 \
+    python3-pip \
+    gdal-bin \ 
+    libgdal-dev \
+    --fix-missing
+
 
 # Set the working directory in the container
 WORKDIR /course
