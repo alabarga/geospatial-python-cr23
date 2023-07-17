@@ -23,7 +23,7 @@ los recursos hídricos, el uso del suelo, la erosión, la expansión urbana y ot
 4. Trabajando con archivos y paquetes en Python
 5. Trabajando con APIs
    
-**Análisis de datos geospaciales en Python de imágenes de satélite**
+**Análisis de datos geospaciales en Python**
 1. Carga de datos geospaciales
 2. Visualización de datos geopsaciales con Folium
    
