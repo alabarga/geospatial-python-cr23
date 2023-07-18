@@ -1,3 +1,7 @@
+## Meteored
+
+https://www.meteored.cr/api/
+
 En esta sección usted podrá descargarse las predicciones para todas las localidades que desee. Por ejemplo, si queremos obtener la predicción para la localidad de San José, tendriamos: Continente => América Central, País => Costa Rica, Provincia => San José, Localidad => San José.
 
 Introducimos en el navegador la siguiente URL:
