@@ -171,5 +171,6 @@ cython_debug/
 cache/
 
 # Models
+models/
 *.pkl
 *.zip
